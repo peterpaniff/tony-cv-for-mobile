@@ -1,0 +1,12 @@
+
+#ifndef TINY_CV_PLATFORM_H
+#define TINY_CV_PLATFORM_H
+
+#cmakedefine01 TINY_CV_STDIO
+#cmakedefine01 TINY_CV_STRING
+#cmakedefine01 TINY_CV_OPENCV
+#cmakedefine01 TINY_CV_BENCHMARK
+#cmakedefine01 TINY_CV_PIXEL
+#cmakedefine01 TINY_CV_PIXEL_ROTATE
+
+#endif // TINY_CV_PLATFORM_H
